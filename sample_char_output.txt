@@ -1,0 +1,27 @@
+No of Shingles in File Docs/D1.txt:4217
+No of Shingles in File Docs/D2.txt:3679
+No of Shingles in File Docs/D3.txt:2589
+No of Shingles in File Docs/D4.txt:1418
+Jaccard Similarity between Docs/D1.txt and Docs/D2.txt:0.179740026894
+Jaccard Similarity between Docs/D1.txt and Docs/D3.txt:0.170220082531
+Jaccard Similarity between Docs/D1.txt and Docs/D4.txt:0.0826128722382
+Jaccard Similarity between Docs/D2.txt and Docs/D3.txt:0.146305779078
+Jaccard Similarity between Docs/D2.txt and Docs/D4.txt:0.0817062818336
+Jaccard Similarity between Docs/D3.txt and Docs/D4.txt:0.0691035218783
+
+Min-Hash Signature for the Documents
+Docs/D1.txt:[0, 3, 3, 1, 0, 3, 1, 1, 0, 3, 3, 1, 2, 1, 3, 1, 6, 5, 2, 1, 1, 3, 2, 1, 6, 3, 2, 1, 4, 5, 2, 1, 0, 3, 1, 1, 3, 3, 4, 1, 0, 1, 3, 1, 2, 3, 0, 1, 1, 5, 0, 1, 0, 3, 4, 1, 2, 7, 5, 1, 0, 3, 1, 1, 3, 3, 4, 1, 0, 1, 2, 1, 5, 3, 3, 1, 1, 3, 1, 1, 0, 3, 0, 1, 0, 5, 0, 1, 3, 3, 1, 1, 0, 3, 3, 1, 4, 1, 5, 1, 2, 3, 3, 1, 1, 3, 0, 1, 2, 3, 3, 1, 0, 3, 0, 1, 0, 7, 1, 1]
+Docs/D2.txt:[2, 1, 0, 1, 2, 1, 1, 1, 2, 1, 0, 1, 0, 1, 3, 1, 2, 1, 2, 1, 1, 1, 3, 1, 3, 1, 0, 1, 0, 1, 0, 1, 4, 1, 1, 1, 0, 1, 0, 1, 3, 1, 5, 1, 2, 1, 4, 1, 1, 1, 3, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 2, 1, 0, 1, 3, 1, 3, 1, 2, 1, 0, 1, 1, 1, 1, 1, 0, 1, 2, 1, 0, 1, 2, 1, 2, 1, 1, 1, 3, 1, 2, 1, 0, 1, 0, 1, 9, 1, 0, 1, 1, 1, 4, 1, 0, 1, 0, 1, 0, 1, 2, 1, 4, 1, 1, 1]
+Docs/D3.txt:[0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 1, 1]
+Docs/D4.txt:[12, 23, 0, 9, 5, 11, 15, 17, 8, 3, 4, 21, 7, 1, 0, 1, 4, 5, 0, 5, 15, 7, 5, 9, 13, 13, 11, 1, 2, 3, 9, 1, 0, 7, 8, 9, 2, 3, 9, 9, 5, 1, 0, 5, 3, 9, 18, 1, 8, 9, 10, 5, 3, 13, 2, 1, 4, 3, 4, 5, 0, 15, 8, 1, 10, 5, 11, 9, 5, 1, 8, 9, 0, 3, 2, 5, 8, 11, 1, 1, 9, 5, 5, 1, 3, 21, 3, 9, 10, 5, 8, 9, 0, 35, 0, 1, 2, 1, 2, 9, 0, 19, 3, 9, 8, 5, 3, 5, 2, 3, 4, 1, 3, 7, 5, 5, 15, 7, 15, 9]
+Jaccard Similarity between Docs/D1.txt and Docs/D2.txt:0.433333333333
+Jaccard Similarity between Docs/D1.txt and Docs/D3.txt:0.416666666667
+Jaccard Similarity between Docs/D1.txt and Docs/D4.txt:0.216666666667
+Jaccard Similarity between Docs/D2.txt and Docs/D3.txt:0.608333333333
+Jaccard Similarity between Docs/D2.txt and Docs/D4.txt:0.141666666667
+Jaccard Similarity between Docs/D3.txt and Docs/D4.txt:0.133333333333
+
+Candidate pairs obtained using LSH
+('Docs/D1.txt', 'Docs/D2.txt')
+('Docs/D1.txt', 'Docs/D3.txt')
+('Docs/D2.txt', 'Docs/D3.txt')
